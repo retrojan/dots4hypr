@@ -1,5 +1,6 @@
-# dots-hypr
-monochrome dots for hyprland
+<h1 align="center">dots4hypr</h1>
+
+<p align="center">Monochrome theme dots for <a href="https://hypr.land">Hyprland</a></p>
 
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/b79b27fa-fafd-4ae9-9706-97c1579690d6" />
 
