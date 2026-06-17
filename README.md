@@ -24,7 +24,7 @@ git clone https://github.com/retrojan/dots4hypr.git && cd dots4hypr
 ```
 cp -r ./.zshrc ~/ && cp -r ./Kvantum ./dunst ./fastfetch ./fuzzel ./gtk-3.0 ./hypr ./kitty ./waybar ~/.config/
 ```
-3 (OPTIONAL) change your shell to zsh
+3. (OPTIONAL) change your shell to zsh
 ```
 chsh -s /bin/zsh
 ```
