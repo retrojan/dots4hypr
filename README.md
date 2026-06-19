@@ -7,7 +7,7 @@
 # install packages
 pacman:
 ```bash
-sudo pacman -S pamixer hyprpaper gnome-themes-extra jq fuzzel fastfetch dunst kvantum kitty waybar grim slurp ttf-jetbrains-mono-nerd playerctl zsh
+sudo pacman -S pamixer hyprpaper gnome-themes-extra jq fuzzel fastfetch dunst kvantum kitty waybar grim slurp ttf-jetbrains-mono-nerd playerctl zsh nvim
 ```
 aur (yay):
 ```
@@ -22,7 +22,7 @@ git clone https://github.com/retrojan/dots4hypr.git && cd dots4hypr
 ```
 2. copy files
 ```
-cp -r ./.zshrc ~/ && cp -r ./Kvantum ./dunst ./fastfetch ./fuzzel ./gtk-3.0 ./hypr ./kitty ./waybar ~/.config/
+cp -r ./.zshrc ~/ && cp -r ./Kvantum ./dunst ./fastfetch ./fuzzel ./gtk-3.0 ./hypr ./kitty ./waybar ./nvim ~/.config/
 ```
 3. (OPTIONAL) change your shell to zsh
 ```
