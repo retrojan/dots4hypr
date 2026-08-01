@@ -7,7 +7,7 @@
 # install packages
 pacman:
 ```bash
-sudo pacman -S pamixer hyprpaper gnome-themes-extra jq fuzzel fastfetch dunst kvantum kitty waybar grim slurp ttf-jetbrains-mono-nerd playerctl zsh nvim
+sudo pacman -S pamixer hyprpaper gnome-themes-extra jq fuzzel fastfetch dunst kvantum kitty waybar grim slurp ttf-jetbrains-mono-nerd playerctl zsh nvim cliphist
 ```
 aur (yay):
 ```
