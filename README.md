@@ -2,7 +2,8 @@
 
 <p align="center">Monochrome theme dots for <a href="https://hypr.land">Hyprland</a></p>
 
-<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/b79b27fa-fafd-4ae9-9706-97c1579690d6" />
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/f71f37f9-d0de-4f85-af03-e270caef2d0c" />
+
 
 # install packages
 pacman:
